@@ -8,12 +8,12 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=yanmao-cc&theme=prussian&text_bold=false&show_icons=true&count_private=true" alt="YiYang's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmao-cc&layout=compact&theme=prussian&card_width=240" alt="YiYang's Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmao-cc&layout=compact&theme=prussian&card_width=280" alt="YiYang's Top Langs">
 </p>
 
 ## 👨‍💻 My GitHub activities of last 31 days.
 
-![YiYang's github activity graph](https://activity-graph.herokuapp.com/graph?username=yanmao-cc&theme=react-dark&area=true&custom_title=YiYang%20Pu's%20Contribution%20Graph)
+![YiYang's github activity graph](https://activity-graph.herokuapp.com/graph?username=yanmao-cc&theme=aqua&area=true)
 
 ## 📘 My own open source projects
 
