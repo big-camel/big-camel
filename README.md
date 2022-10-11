@@ -7,8 +7,8 @@
 **NOTE:** Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=yanmao-cc&theme=prussian&show_icons=true&count_private=true" alt="YiYang's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmao-cc&layout=compact&theme=prussian" alt="YiYang's Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/?username=yanmao-cc&theme=prussian&text_bold=false&show_icons=true&count_private=true" alt="YiYang's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmao-cc&layout=compact&theme=prussian&card_width=200" alt="YiYang's Top Langs">
 </p>
 
 ## 👨‍💻 My GitHub activities of last 31 days.
