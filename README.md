@@ -8,7 +8,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=yanmao-cc&theme=prussian&text_bold=false&show_icons=true&count_private=true" alt="YiYang's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmao-cc&layout=compact&theme=prussian&card_width=200" alt="YiYang's Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmao-cc&layout=compact&theme=prussian&card_width=240" alt="YiYang's Top Langs">
 </p>
 
 ## 👨‍💻 My GitHub activities of last 31 days.
