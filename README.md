@@ -11,15 +11,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=big-camel&layout=compact&card_width=280" alt="YiYang's Top Langs">
 </p>
 
-## 👨‍💻 My GitHub activities of last 31 days.
-
-![YiYang's github activity graph](https://activity-graph.herokuapp.com/graph?username=big-camel&theme=aqua&area=true)
-
-## 📘 My own open source projects
-
-<a href="https://github.com/red-axe/am-editor.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=red-axe&repo=am-editor&show_owner=true" />
-</a>
-<a href="https://github.com/editablejs/editable.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=editablejs&repo=editable&show_owner=true" />
-</a>
