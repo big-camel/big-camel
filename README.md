@@ -1,13 +1,64 @@
-[GITHUB_PROFILE]: https://github.com/big-camel
+# Hi there 👋 I'm YiYang
 
-![](https://komarev.com/ghpvc/?username=big-camel&color=green)
+Backend / Infrastructure Engineer
 
-## 📈 My GitHub Stats 
+-   Focus: Distributed Systems / Cloud Native / Backend Engineering
+-   Interested in: Performance, Scalability, Developer Tools
+-   GitHub: https://github.com/big-camel
 
-**NOTE:** Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+------------------------------------------------------------------------
 
+# 🧠 About Me
+
+-   🔧 Backend / Infra oriented developer
+-   ☁️ Interested in cloud native ecosystem
+-   ⚙️ Building tools and infrastructure
+-   📚 Always learning system design and performance engineering
+
+------------------------------------------------------------------------
+
+# 🛠 Tech Stack
+
+![Tech](https://skillicons.dev/icons?i=java,c#,python,php,typescript,nodejs,react,docker,kubernetes,linux,postgres,redis,git)
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+```{=html}
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=big-camel&text_bold=false&show_icons=true&count_private=true" alt="YiYang's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=big-camel&layout=compact&card_width=280" alt="YiYang's Top Langs">
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=big-camel&show_icons=true&hide_border=true"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=big-camel&layout=compact&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
+------------------------------------------------------------------------
+
+# 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=big-camel&theme=flat&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+------------------------------------------------------------------------
+
+# 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/big-camel/big-camel/output/github-contribution-grid-snake.svg)
+
+------------------------------------------------------------------------
+
+# 📈 Metrics
+
+![Metrics](https://metrics.lecoq.io/big-camel?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=Asia%2FTokyo)
+
+------------------------------------------------------------------------
+
+# 📫 Contact
+
+-   GitHub: https://github.com/big-camel
+-   Email: 136170746@qq.com
+
+------------------------------------------------------------------------
+
+⭐️ From https://github.com/big-camel
