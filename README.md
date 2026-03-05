@@ -1,13 +1,11 @@
 # 👋
 
-![Metrics](https://metrics.lecoq.io/big-camel)
+![](https://komarev.com/ghpvc/?username=big-camel)
 
-![Streak](https://streak-stats.demolab.com?user=big-camel)
+![stats](https://github-readme-stats.vercel.app/api?username=big-camel&show_icons=true)
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=big-camel)
+![streak](https://streak-stats.demolab.com?user=big-camel)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=big-camel)](https://github.com/ryo-ma/github-profile-trophy)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=big-camel)
 
-![skills](https://skillicons.dev/icons?i=go,python,ts,docker,kubernetes,linux)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=big-camel)
