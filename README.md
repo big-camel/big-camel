@@ -19,7 +19,7 @@ Backend / Infrastructure Engineer
 
 # 🛠 Tech Stack
 
-![Tech](https://skillicons.dev/icons?i=java,c#,python,php,typescript,nodejs,react,docker,kubernetes,linux,postgres,redis,git)
+![Tech](https://skillicons.dev/icons?i=java,python,php,typescript,nodejs,react,docker,kubernetes,linux,postgres,redis,git)
 
 ------------------------------------------------------------------------
 
